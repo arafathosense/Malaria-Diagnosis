@@ -2,8 +2,9 @@
 
 This project implements an end-to-end deep learning pipeline for automatic malaria diagnosis using microscopic blood cell images. Leveraging the TensorFlow Malaria Dataset, it trains a convolutional neural network (CNN) to classify images as Parasitized or Uninfected. Automated detection of malaria-infected blood cells using TensorFlow, NumPy, Matplotlib, and Seaborn.
 
+<img width="501" height="411" alt="1" src="https://github.com/user-attachments/assets/f82d02ce-2824-47d9-94cd-765c8d81108b" />
 
-**The system uses:**
+## The system uses
 
     TensorFlow for model development
     
